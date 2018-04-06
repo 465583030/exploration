@@ -1,8 +1,8 @@
 package completion
 
 import (
-    "github.com/nienie/exploration/boundcontext/task"
-    "github.com/nienie/exploration/boundcontext/usercontext"
+    "github.com/nienie/exploration/boundedcontext/task"
+    "github.com/nienie/exploration/boundedcontext/usercontext"
 )
 
 //Factory ...

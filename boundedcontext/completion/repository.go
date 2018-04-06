@@ -1,0 +1,13 @@
+package completion
+
+//TaskPrizeDao ...
+type TaskPrizeDao struct {}
+
+//UserPrizeDao ...
+type UserPrizeDao struct {}
+
+//CompletedTaskDao ...
+type CompletedTaskDao struct {}
+
+//PrizeDao ...
+type PrizeDao struct {}

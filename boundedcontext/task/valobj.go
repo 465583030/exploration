@@ -1,7 +1,7 @@
 package task
 
 import (
-    "github.com/nienie/exploration/boundcontext/usercontext"
+    "github.com/nienie/exploration/boundedcontext/usercontext"
 )
 
 //Rule ...
@@ -19,6 +19,19 @@ type Rule struct {
 //Condition ...
 type Condition struct {
     Requirement       *Rule
+}
+
+//TaskPool ...
+type TaskPool struct {}
+
+//GetAllTasks ...
+func (p *TaskPool)GetAllTasks() []*Task {
+    return nil
+}
+
+//GetTaskByID ...
+func (p *TaskPool)GetTaskByID(taskID int64) *Task {
+    return nil
 }
 
 //Checker ...

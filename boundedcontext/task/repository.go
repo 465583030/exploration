@@ -1,4 +1,4 @@
-package dao
+package task
 
 //TaskDao ...
 type TaskDao struct {}
@@ -17,3 +17,6 @@ func (d *TaskDao)Save() error {
 func GetTaskByID(taskID int64) (*TaskDao, error) {
     return nil, nil
 }
+
+//ConditionDao ...
+type ConditionDao struct {}
