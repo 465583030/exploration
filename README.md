@@ -4,10 +4,10 @@ Exploration - A Exploration for the Methodology of Software Development
 =======
 * [前言](#前言)
 * [DDD介绍](#DDD介绍)
-    * [基本概念](基本概念)
-    * [分层架构](分层架构)
+    * [基本概念](#基本概念)
+    * [分层架构](#分层架构)
 * [DDD工程实践](#DDD工程实践)
-    * [需求](需求)
+    * [需求](#需求)
     
 前言
 ===
