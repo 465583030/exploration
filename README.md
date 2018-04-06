@@ -8,7 +8,10 @@ Exploration - A Exploration for the Methodology of Software Development
     * [分层架构](#分层架构)
 * [DDD工程实践](#DDD工程实践)
     * [需求](#需求)
-    
+    * [战略建模](#战略建模)
+    * [战术建模](#战术建模)
+* [参考文献](#参考文献)
+ 
 前言
 ===
 
@@ -27,25 +30,25 @@ DDD介绍
 
 基本概念
 ------
-- 领域(Domain)
+- **领域**(Domain)
 
-- 限界上线文(Bounded Context)
+- **限界上线文**(Bounded Context)
 
-- 领域模型(Domain Model)
+- **领域模型**(Domain Model)
 
-- 通用语言(ubiquitous Language)
+- **通用语言**(Ubiquitous Language)
 
-- 领域服务(Domain Service)
+- **领域服务**(Domain Service)
 
-- 实体(Entity)
+- **实体**(Entity)
 
-- 值对象(Value Object)
+- **值对象**(Value Object)
 
-- 聚合(Aggregate)/聚合根(Aggregate Root)
+- **聚合**(Aggregate)/**聚合根**(Aggregate Root)
 
-- 工厂(Factory)
+- **工厂**(Factory)
 
-- 资源库(Repository)
+- **资源库**(Repository)
 
 分层架构
 -------
@@ -64,7 +67,23 @@ DDD工程实践
 
 需求
 ---
+
 [TODO]
+
+战略建模
+----
+
+[TODO]
+
+战术建模
+----
+
+[TODO]
+
+参考文献
+=======
+[1] [领域驱动设计在互联网业务开发中的实践](https://zhuanlan.zhihu.com/p/32459776)
+[2] [领域驱动设计的基础知识总结](https://www.cnblogs.com/butterfly100/p/7827870.html)
 
 
 
