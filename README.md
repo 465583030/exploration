@@ -1,4 +1,4 @@
-Exploration - A Exploration for the Methodology of Software Development  
+Exploration - (探索软件开发的方法论) A Exploration for the Methodology of Software Development  
 
 内容提要
 =======
