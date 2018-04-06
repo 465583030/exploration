@@ -83,6 +83,7 @@ DDD工程实践
 参考文献
 =======
 [1] [领域驱动设计在互联网业务开发中的实践](https://zhuanlan.zhihu.com/p/32459776)
+
 [2] [领域驱动设计的基础知识总结](https://www.cnblogs.com/butterfly100/p/7827870.html)
 
 
