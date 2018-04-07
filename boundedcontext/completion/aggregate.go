@@ -1,7 +1,7 @@
 package completion
 
-//UserCompletedTaskRepo ...
-type UserCompletedTaskRepo struct {
+//UserCompletedTaskSet ...
+type UserCompletedTaskSet struct {
     UserID          int64
     CompletedTasks  []*UserCompletedTask
 }

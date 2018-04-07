@@ -9,7 +9,7 @@ import (
 type Factory struct {}
 
 //CreateUserCompletedTasks ...
-func (f *Factory)CreateUserCompletedTasks(ctx *usercontext.UserContext) (*UserCompletedTaskRepo, error) {
+func (f *Factory)CreateUserCompletedTasks(ctx *usercontext.UserContext) (*UserCompletedTaskSet, error) {
     return nil, nil
 }
 

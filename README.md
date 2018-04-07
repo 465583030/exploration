@@ -10,6 +10,8 @@ Exploration - (探索软件开发的方法论) A Exploration for the Methodology
     * [需求](#需求)
     * [战略建模](#战略建模)
     * [战术建模](#战术建模)
+    * [架构设计](#架构设计)
+* [总结](#总结)    
 * [参考文献](#参考文献)
  
 前言
@@ -80,8 +82,19 @@ DDD工程实践
 
 [TODO]
 
+架构设计
+------
+
+[TODO]
+
+总结
+===
+
+[TODO]
+
 参考文献
 =======
+
 [1] [领域驱动设计在互联网业务开发中的实践](https://zhuanlan.zhihu.com/p/32459776)
 
 [2] [领域驱动设计的基础知识总结](https://www.cnblogs.com/butterfly100/p/7827870.html)
