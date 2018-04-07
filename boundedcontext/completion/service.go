@@ -8,7 +8,7 @@ import (
 //CompletionService 完成领域服务
 type CompletionService struct {}
 
-//Complete 完成任务后，所做的逻辑（记录用户完成某任务，通知用户任务已完成等工作）
+//Complete 完成任务后，所做的逻辑（记录用户完成某任务，写统计日志等工作）
 func (s *CompletionService)Complete(ctx *usercontext.UserContext, task *task.Task) (bool, error) {
     return true, nil
 }
