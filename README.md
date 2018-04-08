@@ -1,4 +1,4 @@
-Exploration - (探索软件开发的方法论) A Exploration for the Methodology of Software Development  
+Exploration - (探索互联网软件开发的方法论) A Exploration for the Methodology of Internet Software Development  
 
 内容提要
 =======
