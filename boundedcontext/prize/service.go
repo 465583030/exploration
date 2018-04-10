@@ -17,3 +17,8 @@ func (s *PrizeService)Award(ctx *usercontext.UserContext, task *task.Task) error
 func (s *PrizeService)Accept(ctx *usercontext.UserContext, task *task.Task) error {
     return nil
 }
+
+//GetAcceptablePrizes 获取为领取的奖品
+func (s *PrizeService)GetAcceptablePrizes(ctx *usercontext.UserContext) ([]*UserPrize, error) {
+    return nil, nil
+}

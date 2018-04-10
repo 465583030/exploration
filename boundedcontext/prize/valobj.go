@@ -12,8 +12,7 @@ type TaskPrize struct {
     TaskPrizeDao *TaskPrizeDao
 }
 
-//UserPrizeSet ...
-type UserPrizeSet struct {
-    UserID     int64
-    UserPrizes []*UserPrize
+//UserPrize ...
+type UserPrize struct {
+    UserPrize        *UserPrizeDao
 }
